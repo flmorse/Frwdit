@@ -54,7 +54,7 @@
       "value": ""
     }
   },
-  "stack": "Container",
+  "stack": "container",
   "formation": {
     "worker": {
       "quantity": 1,
