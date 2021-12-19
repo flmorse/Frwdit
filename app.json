@@ -48,10 +48,6 @@
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
       "value": "document"
-    },
-    "SESSION": {
-      "description": "Pyrogram string Seccion https://replit.com/@JijinR/PyroSessionString",
-      "value": ""
     }
   },
   "stack": "container",
